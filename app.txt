@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "ads_data": "{\"sdk_key\":\"hjs\",\"banner_ad_id\":\"hsj\",\"inter_ad_id\":\"hsj\",\"native_ad_id\":\"jjh\",\"adx_banner_ad_id\":\"no\",\"adx_inter_ad_id\":\"no\",\"adx_native_ad_id\":\"no\"}",
+        "ads_data": "{\"sdk_key\":\"hjs\",\"banner_ad_id\":\"hsj\",\"inter_ad_id\":\"hsj\",\"native_ad_id\":\"jjh\"}",
         "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.hadieditz.ninja.TV.pk",
         "web_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.hadieditz.ninja.TV.pk",
         "app_version": "75",
