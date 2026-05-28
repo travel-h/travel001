@@ -6,7 +6,7 @@
         "web_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.hadieditz.ninja.TV.pk",
         "app_version": "75",
         "message": "Ployx \u2013 Your shortcut to AI images creativity!  \ud83d\ude80  Create stunning AI images with ready-to-use prompts!  \ud83d\ude80",
-        "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.ployx.prompts",
+        "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.funzar.catblast",
         "bottom_visible": "no",
         "msg_visible": "no",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.hadieditz.ninja.TV.pk"
