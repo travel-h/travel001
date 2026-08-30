@@ -9,6 +9,8 @@
         "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.funzar.catblast",
         "bottom_visible": "no",
         "msg_visible": "no",
-        "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.hadieditz.ninja.TV.pk"
+        "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.hadieditz.ninja.TV.pk",
+        "score_visible": "yes",
+        "default_link": null
     }
 ]
